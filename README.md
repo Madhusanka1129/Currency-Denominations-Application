@@ -2,7 +2,7 @@
 
 A Windows Forms application that calculates the breakdown of currency denominations for any given amount.
 
-![Application Screenshot](agni logo white font png.png) 
+ 
 
 ## Features ✨
 - Calculates the number of notes/coins for any amount
